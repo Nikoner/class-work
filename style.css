@@ -1,0 +1,24 @@
+.image_account {
+    margin-top: -45px;
+}
+
+.price {
+    text-align: center;
+}
+
+.push2 {
+    width: 600px;
+    height: 60px;
+}
+
+/* .spp {
+    margin-left: 10px;
+    margin-top: 2em;
+} */
+
+.grey {
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
